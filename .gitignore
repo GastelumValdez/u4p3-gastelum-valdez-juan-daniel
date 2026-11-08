@@ -5,3 +5,4 @@ __pycache__/
 *.sqlite3
 miproyecto_gvjd/.env
 miproyecto_gvjd/.env.example
+.env
